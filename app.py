@@ -132,8 +132,5 @@ def download():
     return send_file(csv_file, as_attachment=True)
 
 if __name__ == '__main__':
-<<<<<<< HEAD
+# Resolved section in app.py
     app.run(debug=True)
-=======
-    app.run(debug=True)
->>>>>>> b0a3993 (Initial commit)
