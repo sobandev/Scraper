@@ -25,4 +25,8 @@ This project is a web scraping bot built with Python, Selenium, and BeautifulSou
 
    ```sh
    git clone https://github.com/sobandev/Scraper
+<<<<<<< HEAD
    cd Scraper
+=======
+   cd Scraper
+>>>>>>> b0a3993 (Initial commit)
